@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200768933467",
+    "project_id": "echoke001-52bdc",
+    "storage_bucket": "echoke001-52bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200768933467:android:84fc6934e3f9fb4d00797e",
+        "android_client_info": {
+          "package_name": "com.echoke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUCd4WHo7GnW1wbcU47TRVydVxoEoeQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
